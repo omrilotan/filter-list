@@ -1,3 +1,11 @@
+[Omri's Filter List]
+! Version: 20231127112759
+! Title: Omri's Filter List
+! Last modified: 2023-11-27 11:27:59
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/omrilotan/filter-list
+!
+! Personal Filter list
 *,domain=analytics.tiktok.com
 *,domain=clarity.ms
 *,domain=google-analytics.com
