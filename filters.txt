@@ -1,0 +1,4 @@
+*,domain=analytics.tiktok.com
+*,domain=clarity.ms
+*,domain=google-analytics.com
+*,domain=ping.chartbeat.net
